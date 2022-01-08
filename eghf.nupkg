@@ -1,0 +1,3 @@
+Once you have created a package and have your .nupkg file in hand, it's a simple process to make it available to other developers, either publicly or privately:
+
+    Public packages are made available to all developers globally through nuget.org as described in this article (requires NuGet 4.1.0+).
